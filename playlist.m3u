@@ -1,0 +1,45 @@
+#EXTM3U
+# 香港 IPTV 精简列表
+# 来源：公开可访问直播源，线路可能随时间失效
+
+#EXTINF:-1 tvg-id="jade" tvg-name="翡翠台" group-title="TVB",翡翠台
+https://smt.goiptv.us.ci/jade_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pearl" tvg-name="明珠台" group-title="TVB",明珠台
+https://smt.goiptv.us.ci/pearl_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="inews" tvg-name="无线新闻" group-title="TVB",无线新闻
+https://smt.goiptv.us.ci/inews_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvbplus" tvg-name="TVB Plus" group-title="TVB",TVB Plus
+https://smt.goiptv.us.ci/j2_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viutv" tvg-name="ViuTV" group-title="ViuTV",ViuTV
+https://smt.goiptv.us.ci/viu1_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viutvsix" tvg-name="ViuTVsix" group-title="ViuTV",ViuTVsix
+https://smt.goiptv.us.ci/viusix_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rthk31" tvg-name="RTHK 31" group-title="RTHK",RTHK 31
+https://smt.goiptv.us.ci/rhk31_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rthk32" tvg-name="RTHK 32" group-title="RTHK",RTHK 32
+https://smt.goiptv.us.ci/rhk32_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hoy77" tvg-name="HOY TV" group-title="HOY",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="hoy76" tvg-name="HOY 76" group-title="HOY",HOY 国际财经台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="hoy78" tvg-name="HOY 78" group-title="HOY",HOY 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="rthk33" tvg-name="RTHK 33" group-title="RTHK",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+
+#EXTINF:-1 tvg-id="rthk34" tvg-name="RTHK 34" group-title="RTHK",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+
+#EXTINF:-1 tvg-id="rthk35" tvg-name="RTHK 35" group-title="RTHK",RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
