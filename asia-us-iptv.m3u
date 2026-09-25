@@ -1,0 +1,136 @@
+#EXTM3U
+# Asia + USA public/free IPTV sources
+# Availability may vary by region and streams may change.
+
+#EXTINF:-1 group-title="Hong Kong",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 group-title="Hong Kong",HOY 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 group-title="Hong Kong",HOY 国际财经台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="Hong Kong",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="Hong Kong",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="Hong Kong",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 group-title="Hong Kong",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 group-title="Hong Kong",RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+#EXTINF:-1 group-title="Macau",TDM Ch2
+https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="Macau",TDM Ch3
+https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="Macau",TDM Ch4 Sport
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Macau",TDM Ch5 Info
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="Macau",TDM Ch6
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="Macau",Lotus
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+
+#EXTINF:-1 group-title="Taiwan",DaAi TV 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="Taiwan",DaAi TV 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="Taiwan",Taiwan Indigenous TV
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="Taiwan",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="Taiwan",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan",NHK WORLD-JAPAN
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="Japan",NHK WORLD-JAPAN Tokyo
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="Japan",NHK WORLD-JAPAN Osaka
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="Japan",QVC Japan
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 group-title="Japan",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="Japan",Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 group-title="Japan",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 group-title="Korea",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Korea",Arirang TV UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Korea",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea",EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",BTN
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="Singapore",CNA
+https://d2e1asnsl7br7b.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="USA",Bloomberg
+https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
+#EXTINF:-1 group-title="USA",Kartoon Channel
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
+#EXTINF:-1 group-title="USA",Fubo Sports Network
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+#EXTINF:-1 group-title="USA",Faith TV
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="USA",The Walk TV
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 group-title="USA",CBS Sports Golazo
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 group-title="USA",Genesis Science Network
+https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
+#EXTINF:-1 group-title="USA",WGGS-TV 16.1
+https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
+#EXTINF:-1 group-title="USA",KMCT-TV 39.1
+https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+#EXTINF:-1 group-title="USA",Fun Roads
+https://www.funroads-hls1.com/funroads.m3u8
+#EXTINF:-1 group-title="USA",BATV Public
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",BATV Educational
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",BATV Government
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",Best of BATV
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",NTD TV West
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 group-title="USA",Diya TV
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 group-title="USA",Greater Love TV
+https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 group-title="USA",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 group-title="USA",RadiantTV
+https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
+#EXTINF:-1 group-title="USA",Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",Smurf TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1 group-title="USA",Galavision East
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-1 group-title="USA",Galavision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 group-title="USA",Univision East
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-1 group-title="USA",Univision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniswest.m3u8
